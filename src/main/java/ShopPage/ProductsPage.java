@@ -7,4 +7,7 @@ public class ProductsPage {
 
         //Testing Code
     }
+        public void cartItems(){
+        System.out.println("Cart Items");
+    }
 }
